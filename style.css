@@ -1,7 +1,7 @@
 body {background-color:black; font:arial; color:white;}
 h1{color:grey; font:verdana;}
 .maindiv{background-color:white; color:black;
- width:370px; padding:20px; border-radius:25px;
+ width:400px; padding:20px; border-radius:25px;
   margin: auto;}
 .highlight{background-color: yellow;}
 .inset{padding-left:40px}
